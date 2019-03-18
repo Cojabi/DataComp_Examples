@@ -16,5 +16,5 @@ Data simulation was done in [simulate_data.ipynb](https://github.com/Cojabi/Data
 
 More information on the package can be found here:
 - [GitHub](https://github.com/Cojabi/DataComp)
-- Read the docs
-- PyPi
+- [Read the docs](https://datacomp.readthedocs.io/en/latest/)
+- [PyPi](https://pypi.org/project/datacomp/)
